@@ -1,9 +1,9 @@
 module.exports = {
-  name: 'London Night and Day',
+  name: 'SN Research Website',
   shortName: '',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
-  url: 'https://www.jooplaan.com', // Domain of your site without prefix!
+  description: 'simple descriptioon',
+  url: 'https://kali187.github.io/SNResearchWebsite', // Domain of your site without prefix!
   prefix: '/',
-  author: 'jooplaan',
+  author: 'Janusz Kaliszczak',
   twitter: ''
 }
